@@ -36,5 +36,8 @@
     "packages": [
       "packages/*"
     ]
+  },
+  "dependencies": {
+    "web3": "^1.5.1"
   }
 }
